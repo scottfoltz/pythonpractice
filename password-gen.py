@@ -1,7 +1,7 @@
 import random
 
 print ('**********************************************')
-print ('Welcome to the Welcome to the Text Analyzer!')
+print ('Welcome to the Welcome to the Password Generator!')
 print ('**********************************************')
 
 #define an array that will hold all of the words
